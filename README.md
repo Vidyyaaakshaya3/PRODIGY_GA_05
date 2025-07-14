@@ -66,7 +66,7 @@ Original Content     |     Style Reference     |     Stylized Result     |     S
 
 ![Stable Diffusion Output](https://github.com/Vidyyaaakshaya3/PRODIGY_GA_05/blob/main/Task_5_input.png)
 ![Stable Diffusion Output](https://github.com/Vidyyaaakshaya3/PRODIGY_GA_05/blob/main/Task_5_style.png)
-![Stable Diffusion Output](https://github.com/Vidyyaaakshaya3/PRODIGY_GA_05/blob/main/Task_5_ouput.png)
+![Stable Diffusion Output](https://github.com/Vidyyaaakshaya3/PRODIGY_GA_05/blob/main/Task_5_oupuy.png)
 ---
 
 ## 📈 Results
